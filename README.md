@@ -69,3 +69,7 @@ Spotify 1.2M+ Songs: https://www.kaggle.com/datasets/rodolfofigueroa/spotify-12m
 
 Top Spotify songs from 2010-2019 - BY YEAR:
 https://www.kaggle.com/datasets/leonardopena/top-spotify-songs-from-20102019-by-year
+
+![image](https://user-images.githubusercontent.com/114372545/230705441-14987130-448d-48a1-81a8-99666bfd36eb.png)
+![image](https://user-images.githubusercontent.com/114372545/230705493-a70c62f3-afb8-4e41-a80c-82204a852d76.png)
+
