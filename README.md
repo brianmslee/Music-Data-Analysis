@@ -1,4 +1,4 @@
-# Music-Research-Project-1
+# Musical Trend Statistical Analysis 
 
 ### Members:
 Alexis Valdez  
