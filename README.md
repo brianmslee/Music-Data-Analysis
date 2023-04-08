@@ -1,4 +1,4 @@
-# Musical Trend Statistical Analysis 
+# Musical Trends Statistical Analysis 
 
 ### Members:
 Alexis Valdez  
